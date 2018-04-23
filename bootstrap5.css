@@ -1,0 +1,13 @@
+.col-sm-4{
+    outline-color: black;
+    outline-width: 1px;
+    padding: 15px;
+}
+footer {
+    background-color: #f2f2f2;
+    padding: 25px;
+    margin-top: 5%;
+    outline-color: black;
+    outline-style: solid;
+    outline-width: 1px;
+  }

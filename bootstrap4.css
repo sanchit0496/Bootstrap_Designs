@@ -1,0 +1,42 @@
+h1{
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.container{
+    margin-top: 20px;
+}
+.col-sm-9{
+    outline-color: black;
+    outline-width: 1px;
+    outline-style: solid;
+}
+.col-sm-3{
+    outline-color: black;
+    outline-width: 1px;
+    outline-style: solid;
+    padding: 10px;
+}
+.list-group{
+    outline-color: w
+}
+.col-sm-4{
+    outline-color: black;
+    outline-width: 1px;
+    outline-style: solid;
+    padding: 10px;
+}
+.col-sm-6{
+    outline-color: black;
+    outline-width: 1px;
+    outline-style: solid;
+    padding: 10px;
+}
+footer {
+    background-color: #f2f2f2;
+    padding: 25px;
+    margin-top: 5%;
+    outline-color: black;
+    outline-style: solid;
+    outline-width: 1px;
+  }
