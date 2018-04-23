@@ -1,0 +1,16 @@
+h4{
+    padding: 10px;
+    text-align: center;
+}
+.card-deck{
+    padding-left: 130px;
+    padding-right: 130px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+footer {
+    background-color: #f2f2f2;
+    padding: 25px;
+    margin-top: 20px;
+  }
